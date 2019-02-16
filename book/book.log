@@ -1,0 +1,1670 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.11)  1 FEB 2019 14:05
+entering extended mode
+**C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/book.tex
+(C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/book.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+(G:\ctex\MiKTeX\tex\latex\base\book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(G:\ctex\MiKTeX\tex\latex\base\bk12.clo
+File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(G:\ctex\MiKTeX\tex\latex\geometry\geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(G:\ctex\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(G:\ctex\MiKTeX\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(G:\ctex\MiKTeX\tex\generic\oberdiek\ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(G:\ctex\MiKTeX\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+(G:\ctex\MiKTeX\tex\latex\geometry\geometry.cfg))
+(G:\ctex\MiKTeX\tex\latex\base\fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(G:\ctex\MiKTeX\tex\latex\base\t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(G:\ctex\MiKTeX\tex\latex\base\textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(G:\ctex\MiKTeX\tex\latex\base\ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+(G:\ctex\MiKTeX\tex\latex\psnfss\mathpazo.sty
+Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup4
+)
+(G:\ctex\MiKTeX\tex\latex\ltxmisc\url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(G:\ctex\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(G:\ctex\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(G:\ctex\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(G:\ctex\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(G:\ctex\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(G:\ctex\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(G:\ctex\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count91
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(G:\ctex\MiKTeX\tex\latex\subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(G:\ctex\MiKTeX\tex\latex\caption\caption.sty
+Package: caption 2011/11/10 v3.2e Customizing captions (AR)
+
+(G:\ctex\MiKTeX\tex\latex\caption\caption3.sty
+Package: caption3 2011/11/01 v1.4a caption3 kernel (AR)
+\captionmargin=\dimen113
+\captionmargin@=\dimen114
+\captionwidth=\dimen115
+\caption@indent=\dimen116
+\caption@parindent=\dimen117
+\caption@hangindent=\dimen118
+)
+\c@ContinuedFloat=\count92
+)
+\c@KVtest=\count93
+\sf@farskip=\skip43
+\sf@captopadj=\dimen119
+\sf@capskip=\skip44
+\sf@nearskip=\skip45
+\c@subfigure=\count94
+\c@subfigure@save=\count95
+\c@lofdepth=\count96
+\c@subtable=\count97
+\c@subtable@save=\count98
+\c@lotdepth=\count99
+\sf@top=\skip46
+\sf@bottom=\skip47
+)
+(G:\ctex\MiKTeX\tex\latex\ams\math\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip48
+
+For additional information on amsmath, use the `?' option.
+(G:\ctex\MiKTeX\tex\latex\ams\math\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(G:\ctex\MiKTeX\tex\latex\ams\math\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen120
+))
+(G:\ctex\MiKTeX\tex\latex\ams\math\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen121
+)
+(G:\ctex\MiKTeX\tex\latex\ams\math\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count100
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count101
+\leftroot@=\count102
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count103
+\DOTSCASE@=\count104
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen122
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count105
+\c@MaxMatrixCols=\count106
+\dotsspace@=\muskip11
+\c@parentequation=\count107
+\dspbrk@lvl=\count108
+\tag@help=\toks17
+\row@=\count109
+\column@=\count110
+\maxfields@=\count111
+\andhelp@=\toks18
+\eqnshift@=\dimen123
+\alignsep@=\dimen124
+\tagshift@=\dimen125
+\tagwidth@=\dimen126
+\totwidth@=\dimen127
+\lineht@=\dimen128
+\@envbody=\toks19
+\multlinegap=\skip49
+\multlinetaggap=\skip50
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(G:\ctex\MiKTeX\tex\latex\ams\classes\amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks21
+\thm@bodyfont=\toks22
+\thm@headfont=\toks23
+\thm@notefont=\toks24
+\thm@headpunct=\toks25
+\thm@preskip=\skip51
+\thm@postskip=\skip52
+\thm@headsep=\skip53
+\dth@everypar=\toks26
+)
+(G:\ctex\MiKTeX\tex\latex\base\makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+(G:\ctex\MiKTeX\tex\latex\setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+
+! LaTeX Error: File `hevea.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+(G:\ctex\MiKTeX\tex\latex\upquote\upquote.sty
+Package: upquote 2003/08/11 v1.1 Covington's upright-quote modification to verb
+atim and verb
+)
+(G:\ctex\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+\fancy@headwidth=\skip54
+\f@ncyO@elh=\skip55
+\f@ncyO@erh=\skip56
+\f@ncyO@olh=\skip57
+\f@ncyO@orh=\skip58
+\f@ncyO@elf=\skip59
+\f@ncyO@erf=\skip60
+\f@ncyO@olf=\skip61
+\f@ncyO@orf=\skip62
+)
+(G:\ctex\MiKTeX\tex\latex\hyperref\hyperref.sty
+Package: hyperref 2012/02/06 v6.82o Hypertext links for LaTeX
+
+(G:\ctex\MiKTeX\tex\generic\oberdiek\hobsub-hyperref.sty
+Package: hobsub-hyperref 2011/04/23 v1.4 Bundle oberdiek, subset hyperref (HO)
+
+(G:\ctex\MiKTeX\tex\generic\oberdiek\hobsub-generic.sty
+Package: hobsub-generic 2011/04/23 v1.4 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2011/04/23 v1.4 Subsetting bundle oberdiek (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/04/04 v1.12 Provides string conversions (HO)
+Package: bigintcalc 2011/01/30 v1.2 Expandable big integer calculations (HO)
+Package: bitset 2011/01/30 v1.1 Data type bit set (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provides unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/01/30 v1.0 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/04/23 v1.7 Hooks at very end of document (HO)
+Package: atbegshi 2011/01/30 v1.15 At begin shipout hook (HO)
+Package: refcount 2010/12/01 v3.2 Data extraction from references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options of hyperref/bookmark (HO)
+)
+(G:\ctex\MiKTeX\tex\latex\oberdiek\kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+)
+\@linkdim=\dimen129
+\Hy@linkcounter=\count112
+\Hy@pagecounter=\count113
+
+(G:\ctex\MiKTeX\tex\latex\hyperref\pd1enc.def
+File: pd1enc.def 2012/02/06 v6.82o Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count114
+
+(G:\ctex\MiKTeX\tex\latex\00miktex\hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 3925.
+Package hyperref Info: Hyper figures OFF on input line 4046.
+Package hyperref Info: Link nesting OFF on input line 4051.
+Package hyperref Info: Hyper index ON on input line 4054.
+Package hyperref Info: Plain pages OFF on input line 4061.
+Package hyperref Info: Backreferencing OFF on input line 4066.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4284.
+\c@Hy@tempcnt=\count115
+LaTeX Info: Redefining \url on input line 4637.
+\Fld@menulength=\count116
+\Field@Width=\dimen130
+\Fld@charsize=\dimen131
+Package hyperref Info: Hyper figures OFF on input line 5757.
+Package hyperref Info: Link nesting OFF on input line 5762.
+Package hyperref Info: Hyper index ON on input line 5765.
+Package hyperref Info: backreferencing OFF on input line 5772.
+Package hyperref Info: Link coloring OFF on input line 5777.
+Package hyperref Info: Link coloring with OCG OFF on input line 5782.
+Package hyperref Info: PDF/A mode OFF on input line 5787.
+LaTeX Info: Redefining \ref on input line 5827.
+LaTeX Info: Redefining \pageref on input line 5831.
+\Hy@abspage=\count117
+\c@Item=\count118
+\c@Hfootnote=\count119
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(G:\ctex\MiKTeX\tex\latex\hyperref\hpdftex.def
+File: hpdftex.def 2012/02/06 v6.82o Hyperref driver for pdfTeX
+\Fld@listcount=\count120
+\c@bookmark@seq@number=\count121
+
+(G:\ctex\MiKTeX\tex\latex\oberdiek\rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip63
+)
+! Undefined control sequence.
+l.37 \newstyle
+              {a:link}{color:black;}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 \newstyle{a
+                :link}{color:black;}
+? 
+! Undefined control sequence.
+l.38 \newstyle
+              {p+p}{margin-top:1em;margin-bottom:1em}
+? 
+! Undefined control sequence.
+l.39 \newstyle
+              {img}{border:0px}
+? 
+
+Overfull \hbox (1.68367pt too wide) in paragraph at lines 37--40
+[]\T1/cmr/m/n/12 a:linkcolor:black; p+pmargin-top:1em;margin-bottom:1em img-bor
+-der:0px 
+ []
+
+! Undefined control sequence.
+l.42 \setlinkstext
+                  
+? 
+! Undefined control sequence.
+l.43   {\imgsrc
+               [ALT="Previous"]{back.png}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43   {\imgsrc[
+                ALT="Previous"]{back.png}}
+? 
+! Undefined control sequence.
+l.44   {\imgsrc
+               [ALT="Up"]{up.png}}
+? 
+! Undefined control sequence.
+l.45   {\imgsrc
+               [ALT="Next"]{next.png}}
+? 
+\@indexfile=\write3
+Writing index file book.idx
+(C:\Users\wangxiang\Desktop\ThinkBayes-master\ThinkBayes-master\book\book.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 52.
+
+(G:\ctex\MiKTeX\tex\latex\base\ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 52.
+
+(G:\ctex\MiKTeX\tex\latex\psnfss\t1ppl.fd
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* hratio: 3:2
+* vratio: 1:1
+* modes: twoside 
+* h-part:(L,W,R)=(130.086pt, 397.48499pt, 86.72401pt)
+* v-part:(T,H,B)=(90.3375pt, 614.295pt, 90.3375pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=397.48499pt
+* \textheight=614.295pt
+* \oddsidemargin=57.81601pt
+* \evensidemargin=14.45403pt
+* \topmargin=-13.80629pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=98.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(G:\ctex\MiKTeX\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count122
+\scratchdimen=\dimen132
+\scratchbox=\box28
+\nofMPsegments=\count123
+\nofMParguments=\count124
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count125
+\MPscratchDim=\dimen133
+\MPnumerator=\count126
+\makeMPintoPDFobject=\count127
+\everyMPtoPDFconversion=\toks28
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box29
+Package hyperref Info: Link coloring OFF on input line 52.
+ (G:\ctex\MiKTeX\tex\latex\hyperref\nameref.sty
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+(G:\ctex\MiKTeX\tex\generic\oberdiek\gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count128
+)
+LaTeX Info: Redefining \ref on input line 52.
+LaTeX Info: Redefining \pageref on input line 52.
+LaTeX Info: Redefining \nameref on input line 52.
+
+(C:\Users\wangxiang\Desktop\ThinkBayes-master\ThinkBayes-master\book\book.out)
+(C:\Users\wangxiang\Desktop\ThinkBayes-master\ThinkBayes-master\book\book.out)
+\@outlinefile=\write4
+
+[1{G:/ctex/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}}
+
+] [2
+
+]
+\c@exercise=\count129
+
+
+! LaTeX Error: File `latexonly.tex' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: tex)
+
+Enter file name: 
+
+! LaTeX Error: Environment latexonly undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.76 \begin{latexonly}
+                      
+? 
+
+! LaTeX Error: \blankpage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90 \renewcommand{\blankpage}
+                              {\thispagestyle{empty} \quad \newpage}
+? 
+[1] [2] [3]
+LaTeX Font Info:    Try loading font information for TS1+ppl on input line 157.
+
+ (G:\ctex\MiKTeX\tex\latex\psnfss\ts1ppl.fd
+File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
+)
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 170.
+
+
+(G:\ctex\MiKTeX\tex\latex\base\t1cmtt.fd
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 170.
+
+
+(G:\ctex\MiKTeX\tex\latex\psnfss\ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 170
+.
+
+(G:\ctex\MiKTeX\tex\latex\psnfss\omlzplm.fd
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 170
+.
+
+(G:\ctex\MiKTeX\tex\latex\psnfss\omszplm.fd
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 170
+.
+
+(G:\ctex\MiKTeX\tex\latex\psnfss\omxzplm.fd
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 170
+.
+
+(G:\ctex\MiKTeX\tex\latex\psnfss\ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+
+! LaTeX Error: \begin{document} ended by \end{latexonly}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.174 \end{latexonly}
+                     
+? 
+
+! LaTeX Error: Environment htmlonly undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.179 \begin{htmlonly}
+                      
+? 
+
+! LaTeX Error: \begin{document} ended by \end{htmlonly}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.202 \end{htmlonly}
+                    
+? 
+[4]
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 207.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 210.
+
+Overfull \hbox (2.21841pt too wide) in paragraph at lines 216--222
+\T1/ppl/m/n/12 ideas in terms of math-e-mat-i-cal con-cept-s like cal-cu-lus. T
+his book us-es Python
+ []
+
+[5
+
+] [6]
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 335.
+
+ (G:\ctex\MiKTeX\tex\latex\base\t1cmss.fd
+File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+Overfull \hbox (3.93109pt too wide) in paragraph at lines 358--366
+[]\T1/ppl/m/n/12 I de-vel-ope-d this book us-ing Ana-con-da from Con-tin-u-um A
+n-a-lyt-ic-s, which
+ []
+
+[7]
+Overfull \hbox (1.89209pt too wide) in paragraph at lines 435--440
+[]\T1/ppl/m/n/12 Chapter []0[] is about prob-a-bil-i-ty and Bayes's the-o-rem; 
+it has no code. Chap-
+ []
+
+[8]
+Overfull \hbox (42.94638pt too wide) in paragraph at lines 456--461
+\T1/ppl/m/n/12 If y-ou have a sug-ges-tion or cor-rec-tion, please send e-mail 
+to \T1/ppl/m/it/12 downey@allendowney.com\T1/ppl/m/n/12 .
+ []
+
+[9]
+! Undefined control sequence.
+l.538 \clearemptydoublepage
+                           
+? 
+
+! LaTeX Error: Environment latexonly undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.541 \begin{latexonly}
+                       
+? 
+[10]
+(C:\Users\wangxiang\Desktop\ThinkBayes-master\ThinkBayes-master\book\book.toc
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 1.
+
+[11
+
+] [12] [13] [14])
+\tf@toc=\write5
+
+! Undefined control sequence.
+l.545 \clearemptydoublepage
+                           
+? 
+
+! LaTeX Error: \begin{document} ended by \end{latexonly}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.547 \end{latexonly}
+                     
+? 
+[15] [16
+
+]
+Chapter 0.
+
+Overfull \hbox (6.88684pt too wide) in paragraph at lines 564--571
+\T1/ppl/m/n/12 The fun-da-men-tal idea be-hind al-l Bayesian s-tatis-tic-s is B
+ayes's the-o-rem, which
+ []
+
+
+Overfull \hbox (52.22084pt too wide) in paragraph at lines 585--591
+\T1/ppl/m/n/12 785,000 Amer-i-can-s have a first coro-nary at-tack. ([]$\T1/cmt
+t/m/n/12 http : / / www . cdc . gov / heartdisease /$
+ []
+
+
+Overfull \hbox (4.7676pt too wide) in paragraph at lines 605--610
+[]\T1/ppl/m/n/12 Plugging ev-ery-thing in-to the on-line cal-cu-la-tor at []$\T
+1/cmtt/m/n/12 http : / / cvdrisk . nhlbi .$
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.610 
+       [1
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.666 N
+       ow suppose you choose one of the bowls at random and, without [2]
+[3] [4] [5]
+Overfull \hbox (21.12729pt too wide) in paragraph at lines 884--887
+[]\T1/ppl/m/n/12 The first step is to enu-mer-ate the hy-pothe-ses. The bag the
+ yel-low M&M came
+ []
+
+[6] [7] [8]
+Overfull \hbox (9.18788pt too wide) in paragraph at lines 1041--1044
+[]\T1/ppl/m/n/12 There are many vari-a-tion-s of the Mon-ty Hal-l prob-lem. One
+ of the strength-
+ []
+
+[9] [10
+
+]
+Chapter 1.
+
+Overfull \hbox (30.69867pt too wide) in paragraph at lines 1121--1125
+\T1/cmtt/m/n/12 thinkbayes.py\T1/ppl/m/n/12 . Y-ou can down-load it from []$\T1
+/cmtt/m/n/12 http : / / thinkbayes . com / thinkbayes .$
+ []
+
+[11]
+LaTeX Font Info:    Try loading font information for TS1+cmtt on input line 117
+7.
+ (G:\ctex\MiKTeX\tex\latex\base\ts1cmtt.fd
+File: ts1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+) [12] [13] [14]
+Overfull \hbox (17.57423pt too wide) in paragraph at lines 1343--1347
+[]\T1/ppl/m/n/12 The code in this sec-tion is avail-able from []$\T1/cmtt/m/n/1
+2 http : / / thinkbayes . com / cookie2 .$
+ []
+
+[15]
+Overfull \hbox (1.15474pt too wide) in paragraph at lines 1416--1421
+[]\T1/ppl/m/n/12 In this ex-am-ple, writ-ing []\T1/cmtt/m/n/12 Likelihood \T1/p
+pl/m/n/12 is a lit-tle com-pli-cat-ed, but the frame-
+ []
+
+
+Overfull \hbox (16.139pt too wide) in paragraph at lines 1441--1441
+[]    \T1/cmtt/m/n/12 """Represents a suite of hypotheses and their probabiliti
+es."""[] 
+ []
+
+[16] [17] [18] [19] [20
+
+]
+Chapter 2.
+
+Overfull \hbox (4.78181pt too wide) in paragraph at lines 1657--1660
+[]\T1/ppl/m/n/12 Here's how []\T1/cmtt/m/n/12 Likelihood \T1/ppl/m/n/12 work-s.
+ If []\T1/cmtt/m/n/12 hypo<data\T1/ppl/m/n/12 , that mean-s the rol-l is greate
+r
+ []
+
+[21] [22] <figs/train1.pdf, id=987, 578.16pt x 433.62pt>
+File: figs/train1.pdf Graphic file (type pdf)
+ <use figs/train1.pdf>
+Package pdftex.def Info: figs/train1.pdf used on input line 1745.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+
+[23 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/t
+rain1.pdf>] [24] <figs/train4.pdf, id=1035, 578.16pt x 433.62pt>
+File: figs/train4.pdf Graphic file (type pdf)
+
+<use figs/train4.pdf>
+Package pdftex.def Info: figs/train4.pdf used on input line 1891.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [25] [26 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/
+figs/train4.pdf>]
+Overfull \hbox (4.4761pt too wide) in paragraph at lines 1977--1981
+[]\T1/ppl/m/n/12 You can down-load the ex-am-ples in this sec-tion from []$\T1/
+cmtt/m/n/12 http : / / thinkbayes .$
+ []
+
+[27] [28]
+Overfull \hbox (8.45587pt too wide) in paragraph at lines 2078--2081
+[]\T1/ppl/m/n/12 The West-ern Al-lies had cap-tured log book-s, in-ven-to-ries,
+ and re-pair record-
+ []
+
+[29]
+Overfull \hbox (1.96613pt too wide) in paragraph at lines 2123--2133
+\T1/ppl/m/n/12 But I am gen-er-al-ly in fa-vor of us-ing in-for-ma-tive pri-ors
+. Why? First, Bayesian
+ []
+
+[30] [31] [32
+
+]
+Chapter 3.
+[33] <figs/euro1.pdf, id=1126, 578.16pt x 433.62pt>
+File: figs/euro1.pdf Graphic file (type pdf)
+ <use figs/euro1.pdf>
+Package pdftex.def Info: figs/euro1.pdf used on input line 2230.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+
+Overfull \hbox (10.76921pt too wide) in paragraph at lines 2266--2272
+\T1/ppl/m/n/12 op-tion is to find the most like-ly val-ue in the pos-te-ri-or d
+is-tri-bu-tion. []\T1/cmtt/m/n/12 thinkbayes
+ []
+
+[34 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/e
+uro1.pdf>]
+Overfull \hbox (10.0874pt too wide) in paragraph at lines 2303--2307
+[]\T1/ppl/m/n/12 Now, get-ting back to the o-rig-i-nal ques-tion, we would like
+ to know whether
+ []
+
+<figs/euro2.pdf, id=1160, 578.16pt x 433.62pt>
+File: figs/euro2.pdf Graphic file (type pdf)
+ <use figs/euro2.pdf>
+Package pdftex.def Info: figs/euro2.pdf used on input line 2334.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [35]
+<figs/euro3.pdf, id=1165, 578.16pt x 433.62pt>
+File: figs/euro3.pdf Graphic file (type pdf)
+ <use figs/euro3.pdf>
+Package pdftex.def Info: figs/euro3.pdf used on input line 2342.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [36 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/
+euro2.pdf>]
+Overfull \hbox (3.54956pt too wide) in paragraph at lines 2416--2419
+[]\T1/ppl/m/n/12 Each up-date it-er-ates through the hy-pothe-ses, then call-s 
+[]\T1/cmtt/m/n/12 Normalize\T1/ppl/m/n/12 , which
+ []
+
+[37 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/e
+uro3.pdf>] [38] [39]
+Overfull \hbox (4.40051pt too wide) in paragraph at lines 2568--2573
+[]\T1/cmtt/m/n/12 Beta \T1/ppl/m/n/12 al-so pro-vides \T1/cmtt/m/n/12 EvalPdf\T
+1/ppl/m/n/12 , which e-val-u-ates the prob-a-bil-i-ty den-si-ty func-
+ []
+
+[40]
+Overfull \hbox (26.67772pt too wide) in paragraph at lines 2665--2668
+\T1/ppl/m/it/12 dominosci on Red-dit's s-tatis-tic-s ``sub-red-dit'' at []$\T1/
+cmtt/m/it/12 http : / / reddit . com / r / statistics$[]\T1/ppl/m/it/12 . 
+ []
+
+[41] [42
+
+]
+Chapter 4.
+[43] [44] [45]
+Overfull \hbox (36.16608pt too wide) in paragraph at lines 2915--2923
+\T1/ppl/m/n/12 characters---strength, in-tel-li-gence, wis-dom, dex-ter-i-ty, c
+on-sti-tu-tion, and charisma---
+ []
+
+[46] [47] <figs/dungeons1.pdf, id=1289, 578.16pt x 433.62pt>
+File: figs/dungeons1.pdf Graphic file (type pdf)
+
+<use figs/dungeons1.pdf>
+Package pdftex.def Info: figs/dungeons1.pdf used on input line 3026.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ <figs/dungeons2.pdf, id=1292, 578.16pt x 433.62pt>
+File: figs/dungeons2.pdf Graphic file (type pdf)
+
+<use figs/dungeons2.pdf>
+Package pdftex.def Info: figs/dungeons2.pdf used on input line 3047.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [48 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/
+dungeons1.pdf>] [49 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-ma
+ster/book/figs/dungeons2.pdf>] [50]
+<figs/dungeons3.pdf, id=1375, 578.16pt x 433.62pt>
+File: figs/dungeons3.pdf Graphic file (type pdf)
+ <use figs/dungeons3.pdf>
+Package pdftex.def Info: figs/dungeons3.pdf used on input line 3184.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+
+[51 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/d
+ungeons3.pdf>] [52]
+Overfull \hbox (0.52417pt too wide) in paragraph at lines 3299--3305
+[]\T1/ppl/m/n/12 We have seen t-wo rep-re-sen-ta-tion-s of dis-tri-bu-tion-s: P
+mf-s and Cdf-s. These
+ []
+
+[53] [54]
+Chapter 5.
+
+Overfull \hbox (4.04538pt too wide) in paragraph at lines 3362--3370
+$\T1/cmtt/m/n/12 / / thinkbayes . com / showcases . 2012 . csv$[]\T1/ppl/m/n/12
+ . For more in-for-ma-tion see Sec-tion []-
+ []
+
+[55
+
+] <figs/price1.pdf, id=1437, 578.16pt x 433.62pt>
+File: figs/price1.pdf Graphic file (type pdf)
+ <use figs/price1.pdf>
+Package pdftex.def Info: figs/price1.pdf used on input line 3376.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+
+Overfull \hbox (7.55565pt too wide) in paragraph at lines 3396--3402
+[]\T1/ppl/m/n/12 These dis-tri-bu-tion-s are based on ac-tu-al da-ta, but they 
+have been s-moothed
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [56 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/
+price1.pdf>] [57]
+Overfull \hbox (2.19588pt too wide) in paragraph at lines 3479--3483
+\T1/ppl/m/n/12 vides an im-ple-men-ta-tion of the miss-ing meth-od-s. For ex-am
+-ple, \T1/cmtt/m/n/12 GaussianPdf
+ []
+
+[58] <figs/price2.pdf, id=1490, 578.16pt x 433.62pt>
+File: figs/price2.pdf Graphic file (type pdf)
+ <use figs/price2.pdf>
+Package pdftex.def Info: figs/price2.pdf used on input line 3595.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+
+Overfull \hbox (1.22284pt too wide) in paragraph at lines 3618--3625
+\T1/ppl/m/n/12 guessing in-stru-men-t with known er-ror char-ac-ter-is-tic-s. I
+n oth-er word-s, when
+ []
+
+[59] [60 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/f
+igs/price2.pdf>] [61]
+Overfull \hbox (5.16812pt too wide) in paragraph at lines 3753--3763
+[]\T1/cmtt/m/n/12 ErrorDensity \T1/ppl/m/n/12 work-s by e-val-u-at-ing []\T1/cm
+tt/m/n/12 pdf_error \T1/ppl/m/n/12 at the giv-en val-ue of \T1/cmtt/m/n/12 erro
+r\T1/ppl/m/n/12 .
+ []
+
+<figs/price3.pdf, id=1542, 578.16pt x 433.62pt>
+File: figs/price3.pdf Graphic file (type pdf)
+ <use figs/price3.pdf>
+Package pdftex.def Info: figs/price3.pdf used on input line 3771.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [62]
+[63 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/p
+rice3.pdf>] [64] <figs/price5.pdf, id=1589, 578.16pt x 433.62pt>
+File: figs/price5.pdf Graphic file (type pdf)
+
+<use figs/price5.pdf>
+Package pdftex.def Info: figs/price5.pdf used on input line 3904.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [65 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/
+price5.pdf>] [66] [67] [68
+
+]
+Chapter 6.
+
+Overfull \hbox (2.73495pt too wide) in paragraph at lines 4038--4047
+\T1/ppl/m/n/12 Bru-in-s played a best-of-seven cham-pi-onship se-ries a-gainst 
+the de-spised Van-
+ []
+
+[69]
+Overfull \hbox (0.37909pt too wide) in paragraph at lines 4143--4148
+[]\T1/ppl/m/n/12 A Pois-son pro-cess is the con-tin-u-ous ver-sion of a Bernoul
+-li pro-cess, where
+ []
+
+[70] <figs/hockey1.pdf, id=1658, 578.16pt x 433.62pt>
+File: figs/hockey1.pdf Graphic file (type pdf)
+ <use figs/hockey1.pdf>
+Package pdftex.def Info: figs/hockey1.pdf used on input line 4191.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+
+[71] <figs/hockey2.pdf, id=1665, 578.16pt x 433.62pt>
+File: figs/hockey2.pdf Graphic file (type pdf)
+ <use figs/hockey2.pdf>
+Package pdftex.def Info: figs/hockey2.pdf used on input line 4233.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+
+[72 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/h
+ockey1.pdf>] [73 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-maste
+r/book/figs/hockey2.pdf>] <figs/hockey3.pdf, id=1743, 578.16pt x 433.62pt>
+File: figs/hockey3.pdf Graphic file (type pdf)
+
+<use figs/hockey3.pdf>
+Package pdftex.def Info: figs/hockey3.pdf used on input line 4314.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [74 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/
+hockey3.pdf>] [75] [76]
+Overfull \hbox (6.9362pt too wide) in paragraph at lines 4507--4512
+[]\T1/ppl/m/n/12 The code and da-ta for this chap-ter are avail-able from []$\T
+1/cmtt/m/n/12 http : / / thinkbayes .$
+ []
+
+[77] [78]
+Chapter 7.
+<figs/redline0.pdf, id=1812, 578.16pt x 433.62pt>
+File: figs/redline0.pdf Graphic file (type pdf)
+ <use figs/redline0.pdf>
+Package pdftex.def Info: figs/redline0.pdf used on input line 4636.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+
+[79
+
+]
+Overfull \hbox (4.97815pt too wide) in paragraph at lines 4658--4666
+\T1/ppl/m/n/12 load-s real-time da-ta from []$\T1/cmtt/m/n/12 http : / / www . 
+mbta . com / rider _ tools / developers/$[]\T1/ppl/m/n/12 ,
+ []
+
+[80 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/r
+edline0.pdf>] <figs/redline2.pdf, id=1850, 578.16pt x 433.62pt>
+File: figs/redline2.pdf Graphic file (type pdf)
+
+<use figs/redline2.pdf>
+Package pdftex.def Info: figs/redline2.pdf used on input line 4728.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [81] [82 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/
+figs/redline2.pdf>]
+<figs/redline3.pdf, id=1890, 578.16pt x 433.62pt>
+File: figs/redline3.pdf Graphic file (type pdf)
+ <use figs/redline3.pdf>
+Package pdftex.def Info: figs/redline3.pdf used on input line 4854.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+
+[83] [84 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/f
+igs/redline3.pdf>] [85] <figs/redline1.pdf, id=1943, 578.16pt x 433.62pt>
+File: figs/redline1.pdf Graphic file (type pdf)
+
+<use figs/redline1.pdf>
+Package pdftex.def Info: figs/redline1.pdf used on input line 5012.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [86] [87 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/
+figs/redline1.pdf>]
+Overfull \hbox (46.55457pt too wide) in paragraph at lines 5075--5082
+[]\T1/ppl/m/n/12 This \T1/cmtt/m/n/12 Likelihood \T1/ppl/m/n/12 might look fa-m
+il-iar; it is al-most i-den-ti-cal to \T1/cmtt/m/n/12 Elapsed.Likelihood
+ []
+
+<figs/redline4.pdf, id=1991, 578.16pt x 433.62pt>
+File: figs/redline4.pdf Graphic file (type pdf)
+ <use figs/redline4.pdf>
+Package pdftex.def Info: figs/redline4.pdf used on input line 5120.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+
+[88]
+Overfull \hbox (58.51085pt too wide) in paragraph at lines 5147--5149
+[]\T1/ppl/m/n/12 We have al-ready done step-s (1) and (2). I wrote a class call
+ed \T1/cmtt/m/n/12 WaitMixtureEstimator
+ []
+
+
+Overfull \hbox (15.04784pt too wide) in paragraph at lines 5167--5176
+\T1/ppl/m/n/12 tion of \T1/cmtt/m/n/12 y \T1/ppl/m/n/12 to it-s prob-a-bil-i-ty
+. For each val-ue of \T1/cmtt/m/n/12 lam\T1/ppl/m/n/12 , we use \T1/cmtt/m/n/12
+ ElapsedTimeEstimator
+ []
+
+[89 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/r
+edline4.pdf>] <figs/redline5.pdf, id=2033, 578.16pt x 433.62pt>
+File: figs/redline5.pdf Graphic file (type pdf)
+
+<use figs/redline5.pdf>
+Package pdftex.def Info: figs/redline5.pdf used on input line 5202.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [90 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/
+redline5.pdf>] [91] [92] [93] [94
+
+]
+Chapter 8.
+<figs/paintball.pdf, id=2100, 271.18492pt x 246.52101pt>
+File: figs/paintball.pdf Graphic file (type pdf)
+
+<use figs/paintball.pdf>
+Package pdftex.def Info: figs/paintball.pdf used on input line 5430.
+(pdftex.def)             Requested size: 198.75368pt x 180.67499pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [95]
+<figs/paintball2.pdf, id=2107, 578.16pt x 433.62pt>
+File: figs/paintball2.pdf Graphic file (type pdf)
+ <use figs/paintball2.pdf>
+Package pdftex.def Info: figs/paintball2.pdf used on input line 5465.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+
+[96 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/p
+aintball.pdf>] [97 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-mas
+ter/book/figs/paintball2.pdf>]
+<figs/paintball1.pdf, id=2209, 578.16pt x 433.62pt>
+File: figs/paintball1.pdf Graphic file (type pdf)
+ <use figs/paintball1.pdf>
+Package pdftex.def Info: figs/paintball1.pdf used on input line 5539.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+
+Overfull \hbox (6.22241pt too wide) in paragraph at lines 5560--5564
+[]\T1/cmtt/m/n/12 MakeLocationPmf \T1/ppl/m/n/12 com-putes the prob-a-bil-i-ty 
+of hit-ting each lo-ca-tion, which
+ []
+
+[98 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/p
+aintball1.pdf>] [99] <figs/paintball3.pdf, id=2248, 578.16pt x 433.62pt>
+File: figs/paintball3.pdf Graphic file (type pdf)
+
+<use figs/paintball3.pdf>
+Package pdftex.def Info: figs/paintball3.pdf used on input line 5673.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [100]
+<figs/paintball5.pdf, id=2254, 578.16pt x 433.62pt>
+File: figs/paintball5.pdf Graphic file (type pdf)
+ <use figs/paintball5.pdf>
+Package pdftex.def Info: figs/paintball5.pdf used on input line 5737.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+
+[101 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/
+paintball3.pdf>] [102 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-
+master/book/figs/paintball5.pdf>]
+Overfull \hbox (24.07283pt too wide) in paragraph at lines 5826--5832
+\T1/ppl/m/n/12 that ap-ply to join-t dis-tri-bu-tion-s: \T1/cmtt/m/n/12 Margina
+l\T1/ppl/m/n/12 , \T1/cmtt/m/n/12 Conditional\T1/ppl/m/n/12 , and \T1/cmtt/m/n/
+12 MakeLikeInterval\T1/ppl/m/n/12 .
+ []
+
+[103] [104]
+Chapter 9.
+
+Overfull \hbox (9.73636pt too wide) in paragraph at lines 5927--5928
+[]\T1/ppl/m/n/12 From []$\T1/cmtt/m/n/12 http : / / en . wikipedia . org / wiki
+ / Variability _ hypothesis$[]\T1/ppl/m/n/12 . 
+ []
+
+[105
+
+] [106]
+Overfull \hbox (0.95564pt too wide) in paragraph at lines 6034--6039
+[]\T1/ppl/m/n/12 If y-ou have s-tud-ied s-tatis-tic-s from a math-e-mat-i-cal p
+er-spec-tive, y-ou know
+ []
+
+[107] [108] [109] [110] [111] [112]
+Overfull \hbox (3.79202pt too wide) in paragraph at lines 6377--6377
+[]            \T1/cmtt/m/n/12 loglike = -n * math.log(sigma) - total / 2 / sigm
+a**2[] 
+ []
+
+[113] [114]
+<figs/variability_posterior_male.pdf, id=3861, 578.16pt x 433.62pt>
+File: figs/variability_posterior_male.pdf Graphic file (type pdf)
+
+<use figs/variability_posterior_male.pdf>
+Package pdftex.def Info: figs/variability_posterior_male.pdf used on input line
+ 6507.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+
+<figs/variability_posterior_female.pdf, id=3862, 578.16pt x 433.62pt>
+File: figs/variability_posterior_female.pdf Graphic file (type pdf)
+
+<use figs/variability_posterior_female.pdf>
+Package pdftex.def Info: figs/variability_posterior_female.pdf used on input li
+ne 6515.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [115 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs
+/variability_posterior_male.pdf>]
+Overfull \hbox (9.22327pt too wide) in paragraph at lines 6535--6545
+[]\T1/ppl/m/n/12 Because ABC is based on sum-ma-ry s-tatis-tic-s, rather than t
+he en-tire dataset,
+ []
+
+[116 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/
+variability_posterior_female.pdf>]
+<figs/variability_cv.pdf, id=3968, 578.16pt x 433.62pt>
+File: figs/variability_cv.pdf Graphic file (type pdf)
+
+<use figs/variability_cv.pdf>
+Package pdftex.def Info: figs/variability_cv.pdf used on input line 6623.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [117] [118 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/boo
+k/figs/variability_cv.pdf>] [119] [120
+
+]
+Chapter 10.
+[121] [122] [123]
+Overfull \hbox (2.05022pt too wide) in paragraph at lines 6921--6927
+\T1/ppl/m/n/12 Suit-e, which is the av-er-age of the like-li-hood-s for the sub
+-hypotheses, weight-
+ []
+
+[124] [125] [126]
+Chapter 11.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [127
+
+]
+Overfull \hbox (3.95674pt too wide) in paragraph at lines 7159--7165
+\T1/ppl/m/n/12 and \T1/cmtt/m/n/12 ReadRanks \T1/ppl/m/n/12 read files and re-t
+urn ob-ject-s that con-tain the da-ta: \T1/cmtt/m/n/12 self.scale
+ []
+
+
+Overfull \hbox (2.54742pt too wide) in paragraph at lines 7159--7165
+\T1/ppl/m/n/12 is the \T1/cmtt/m/n/12 Interpolator \T1/ppl/m/n/12 that con-vert
+-s from raw to s-caled s-cores and back; \T1/cmtt/m/n/12 scores
+ []
+
+<figs/sat_prior.pdf, id=4067, 578.16pt x 433.62pt>
+File: figs/sat_prior.pdf Graphic file (type pdf)
+ <use figs/sat_prior.pdf>
+Package pdftex.def Info: figs/sat_prior.pdf used on input line 7172.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+
+[128] [129 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book
+/figs/sat_prior.pdf>]
+<figs/sat_posteriors_p_corr.pdf, id=4103, 578.16pt x 433.62pt>
+File: figs/sat_posteriors_p_corr.pdf Graphic file (type pdf)
+
+<use figs/sat_posteriors_p_corr.pdf>
+Package pdftex.def Info: figs/sat_posteriors_p_corr.pdf used on input line 7238
+.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [130 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs
+/sat_posteriors_p_corr.pdf>] [131]
+Overfull \hbox (2.27615pt too wide) in paragraph at lines 7374--7381
+\T1/ppl/b/n/12 the-o-ry\T1/ppl/m/n/12 , which y-ou can read about at []$\T1/cmt
+t/m/n/12 http : / / en . wikipedia . org / wiki / Item _$
+ []
+
+[132] [133]
+Overfull \hbox (10.0113pt too wide) in paragraph at lines 7457--7462
+\T1/ppl/m/n/12 If we were giv-en the dis-tri-bu-tion of d-if-fi-cul-ty, we coul
+d use []\T1/cmtt/m/n/12 MakeRawScoreDist
+ []
+
+<figs/sat_calibrate.pdf, id=4156, 578.16pt x 433.62pt>
+File: figs/sat_calibrate.pdf Graphic file (type pdf)
+
+<use figs/sat_calibrate.pdf>
+Package pdftex.def Info: figs/sat_calibrate.pdf used on input line 7465.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+
+Overfull \hbox (16.816pt too wide) in paragraph at lines 7481--7486
+[]\T1/ppl/m/n/12 By try-ing out a few com-bi-na-tion-s, I found that \T1/cmtt/m
+/n/12 center=-0.05 \T1/ppl/m/n/12 and \T1/cmtt/m/n/12 width=1.8
+ []
+
+[134 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/
+sat_calibrate.pdf>]
+<figs/sat_posteriors_eff.pdf, id=4193, 433.62pt x 433.62pt>
+File: figs/sat_posteriors_eff.pdf Graphic file (type pdf)
+
+<use figs/sat_posteriors_eff.pdf>
+Package pdftex.def Info: figs/sat_posteriors_eff.pdf used on input line 7521.
+(pdftex.def)             Requested size: 180.67676pt x 180.67499pt.
+ [135 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs
+/sat_posteriors_eff.pdf>] [136]
+<figs/sat_joint.pdf, id=4234, 433.62pt x 433.62pt>
+File: figs/sat_joint.pdf Graphic file (type pdf)
+ <use figs/sat_joint.pdf>
+Package pdftex.def Info: figs/sat_joint.pdf used on input line 7639.
+(pdftex.def)             Requested size: 180.67676pt x 180.67499pt.
+
+[137] [138 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book
+/figs/sat_joint.pdf>]
+Chapter 12.
+
+Overfull \hbox (2.33478pt too wide) in paragraph at lines 7728--7732
+[]\T1/ppl/m/n/12 I con-tact-ed the au-thor of the mes-sage and got more in-for-
+ma-tion; I learned
+ []
+
+[139
+
+] <figs/kidney2.pdf, id=4503, 578.16pt x 433.62pt>
+File: figs/kidney2.pdf Graphic file (type pdf)
+ <use figs/kidney2.pdf>
+Package pdftex.def Info: figs/kidney2.pdf used on input line 7749.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+
+[140 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/
+kidney2.pdf>]
+Overfull \hbox (22.3125pt too wide) in paragraph at lines 7804--7804
+[]    \T1/cmtt/m/n/12 # doubling time in linear measure is doubling time in vol
+ume * 3[] 
+ []
+
+
+Overfull \hbox (3.79202pt too wide) in paragraph at lines 7804--7804
+[]    \T1/cmtt/m/n/12 # how big was the tumor at time of discharge (diameter in
+ cm)[] 
+ []
+
+[141] <figs/kidney4.pdf, id=4563, 578.16pt x 433.62pt>
+File: figs/kidney4.pdf Graphic file (type pdf)
+ <use figs/kidney4.pdf>
+Package pdftex.def Info: figs/kidney4.pdf used on input line 7904.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+
+[142]
+Overfull \hbox (28.486pt too wide) in paragraph at lines 7950--7950
+[]\T1/cmtt/m/n/12 def MakeSequence(rdt_seq, v0=0.01, interval=0.67, vmax=Volume
+(20.0)):[] 
+ []
+
+[143 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/
+kidney4.pdf>] <figs/kidney8.pdf, id=4616, 578.16pt x 433.62pt>
+File: figs/kidney8.pdf Graphic file (type pdf)
+
+<use figs/kidney8.pdf>
+Package pdftex.def Info: figs/kidney8.pdf used on input line 8000.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [144] <figs/kidney6.pdf, id=4621, 578.16pt x 433.62pt>
+File: figs/kidney6.pdf Graphic file (type pdf)
+
+<use figs/kidney6.pdf>
+Package pdftex.def Info: figs/kidney6.pdf used on input line 8037.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+
+Overfull \hbox (1.0425pt too wide) in paragraph at lines 8065--8071
+\T1/ppl/m/n/12 pseu-do-col-or plot, where each cel-l rep-re-sents the num-ber o
+f tu-mors ob-served
+ []
+
+[145 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/
+kidney8.pdf>] <figs/kidney7.pdf, id=7924, 578.16pt x 433.62pt>
+File: figs/kidney7.pdf Graphic file (type pdf)
+
+<use figs/kidney7.pdf>
+Package pdftex.def Info: figs/kidney7.pdf used on input line 8078.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+
+Overfull \hbox (70.15445pt too wide) in paragraph at lines 8101--8105
+[][]\T1/cmtt/m/n/12 bucket \T1/ppl/m/n/12 is the in-te-ger buck-et num-ber cor-
+re-spond-ing to tu-mor size. \T1/cmtt/m/n/12 Joint.Conditional
+ []
+
+[146 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/
+kidney6.pdf>]
+Overfull \hbox (13.90535pt too wide) in paragraph at lines 8150--8156
+\T1/ppl/m/n/12 this as-sump-tion is con-sis-ten-t with the con-clu-sion of Zhan
+g et al: ``Growth
+ []
+
+[147 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/
+kidney7.pdf>] [148]
+(C:\Users\wangxiang\Desktop\ThinkBayes-master\ThinkBayes-master\book\kidney_tab
+le2.tex) [149] [150] [151] [152
+
+]
+Chapter 13.
+
+Overfull \hbox (29.1882pt too wide) in paragraph at lines 8363--8371
+\T1/ppl/m/n/12 thor of the Max-i-mum En-tropy blog at []$\T1/cmtt/m/n/12 http :
+ / / maximum-[]entropy-[]blog . blogspot .$
+ []
+
+
+Overfull \hbox (1.52057pt too wide) in paragraph at lines 8373--8381
+[]\T1/ppl/m/n/12 Suppose that a ra-dioac-tive source emit-s par-ti-cles to-ward
+ a Geiger
+ []
+
+
+Overfull \hbox (7.43626pt too wide) in paragraph at lines 8373--8381
+\T1/ppl/m/n/12 counter at an av-er-age rate of $\OML/zplm/m/it/12 r$ \T1/ppl/m/
+n/12 par-ti-cles per sec-ond, but the counter
+ []
+
+
+Overfull \hbox (14.40959pt too wide) in paragraph at lines 8392--8394
+[]\T1/ppl/m/n/12 During any giv-en sec-ond, the source emit-s $\OML/zplm/m/it/1
+2 n$ \T1/ppl/m/n/12 par-ti-cles to-ward the counter. 
+ []
+
+[153] <figs/jaynes1.pdf, id=8054, 578.16pt x 433.62pt>
+File: figs/jaynes1.pdf Graphic file (type pdf)
+ <use figs/jaynes1.pdf>
+Package pdftex.def Info: figs/jaynes1.pdf used on input line 8425.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+
+[154 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/
+jaynes1.pdf>] [155] [156] <figs/jaynes2.pdf, id=8105, 578.16pt x 433.62pt>
+File: figs/jaynes2.pdf Graphic file (type pdf)
+
+<use figs/jaynes2.pdf>
+Package pdftex.def Info: figs/jaynes2.pdf used on input line 8597.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+
+Overfull \hbox (40.83298pt too wide) in paragraph at lines 8611--8611
+[]        \T1/cmtt/m/n/12 items = [(detector.r, prob) for detector, prob in sel
+f.Items()][] 
+ []
+
+[157 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/
+jaynes2.pdf>] [158] [159] [160
+
+]
+Chapter 14.
+[161] [162]
+Overfull \hbox (3.87428pt too wide) in paragraph at lines 8867--8870
+[]\T1/ppl/m/n/12 In the ex-am-ple, the pri-or marginal dis-tri-bu-tion for each
+ species is \T1/cmtt/m/n/12 Beta(1,
+ []
+
+[163] <figs/species1.pdf, id=8179, 578.16pt x 433.62pt>
+File: figs/species1.pdf Graphic file (type pdf)
+
+<use figs/species1.pdf>
+Package pdftex.def Info: figs/species1.pdf used on input line 8912.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [164 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs
+/species1.pdf>]
+Overfull \hbox (64.93958pt too wide) in paragraph at lines 8993--8997
+[]\T1/cmtt/m/n/12 data \T1/ppl/m/n/12 is a se-quence of ob-served counts; \T1/c
+mtt/m/n/12 hypo \T1/ppl/m/n/12 is a Dirich-let ob-jec-t. \T1/cmtt/m/n/12 Specie
+s.Likelihood
+ []
+
+[165]
+Overfull \hbox (16.96147pt too wide) in paragraph at lines 9046--9052
+$\T1/cmtt/m/n/12 wikipedia . org / wiki / Dirichlet _ distribution # Random _ n
+umber _ generation$[]\T1/ppl/m/n/12 ).
+ []
+
+[166] <figs/species2.pdf, id=8227, 578.16pt x 433.62pt>
+File: figs/species2.pdf Graphic file (type pdf)
+
+<use figs/species2.pdf>
+Package pdftex.def Info: figs/species2.pdf used on input line 9084.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [167 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs
+/species2.pdf>] [168] [169]
+Overfull \hbox (2.9418pt too wide) in paragraph at lines 9285--9291
+\T1/ppl/m/n/12 if the to-tal num-ber of species is \T1/cmtt/m/n/12 n\T1/ppl/m/n
+/12 . \T1/cmtt/m/n/12 BinomialCoefficient \T1/ppl/m/n/12 com-putes ``n choose
+ []
+
+[170] [171] [172]
+Overfull \hbox (1.28906pt too wide) in paragraph at lines 9420--9423
+[]\T1/cmtt/m/n/12 Update \T1/ppl/m/n/12 is sim-i-lar to what we saw in the pre-
+vi-ous sec-tion. It loop-s through
+ []
+
+[173] [174] <figs/species-ndist-B1242.pdf, id=8298, 578.16pt x 433.62pt>
+File: figs/species-ndist-B1242.pdf Graphic file (type pdf)
+
+<use figs/species-ndist-B1242.pdf>
+Package pdftex.def Info: figs/species-ndist-B1242.pdf used on input line 9549.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [175 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs
+/species-ndist-B1242.pdf>]
+Overfull \hbox (6.81093pt too wide) in paragraph at lines 9577--9579
+[]\T1/ppl/m/n/12 Next we com-pute the pos-te-ri-or dis-tri-bu-tion of preva-len
+ce for each species.
+ []
+
+<figs/species-prev-B1242.pdf, id=8337, 578.16pt x 433.62pt>
+File: figs/species-prev-B1242.pdf Graphic file (type pdf)
+
+<use figs/species-prev-B1242.pdf>
+Package pdftex.def Info: figs/species-prev-B1242.pdf used on input line 9601.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+
+<figs/species-rare-B1242.pdf, id=8339, 578.16pt x 433.62pt>
+File: figs/species-rare-B1242.pdf Graphic file (type pdf)
+
+<use figs/species-rare-B1242.pdf>
+Package pdftex.def Info: figs/species-rare-B1242.pdf used on input line 9636.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [176]
+Overfull \hbox (8.40944pt too wide) in paragraph at lines 9670--9673
+[]\T1/ppl/m/n/12 Choose a preva-lence for each species, in-clud-ing pos-si-ble 
+un-seen species,
+ []
+
+[177 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/
+species-prev-B1242.pdf>]
+Overfull \hbox (12.4669pt too wide) in paragraph at lines 9704--9709
+\T1/ppl/m/n/12 species. \T1/cmtt/m/n/12 n \T1/ppl/m/n/12 is a ran-dom val-ue fr
+om the pos-te-ri-or dis-tri-bu-tion, and \T1/cmtt/m/n/12 observations
+ []
+
+
+Overfull \hbox (52.02441pt too wide) in paragraph at lines 9719--9721
+[]\T1/ppl/m/n/12 Before we see the re-sult-s, let's look at \T1/cmtt/m/n/12 Get
+SeenSpecies \T1/ppl/m/n/12 and \T1/cmtt/m/n/12 GenerateObservations\T1/ppl/m/n/
+12 . 
+ []
+
+[178 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/
+species-rare-B1242.pdf>]
+Overfull \hbox (6.01524pt too wide) in paragraph at lines 9732--9737
+\T1/ppl/m/n/12 but for many sub-ject-s these names are not u-nique. So I use \T
+1/cmtt/m/n/12 SpeciesGenerator
+ []
+
+
+Overfull \hbox (57.28607pt too wide) in paragraph at lines 9750--9753
+[]\T1/ppl/m/n/12 Given a name like \T1/cmtt/m/n/12 Corynebacterium\T1/ppl/m/n/1
+2 , \T1/cmtt/m/n/12 SpeciesGenerator \T1/ppl/m/n/12 yield-s \T1/cmtt/m/n/12 Cor
+ynebacterium-1\T1/ppl/m/n/12 .
+ []
+
+[179] <figs/species-cond-B1242.pdf, id=8420, 578.16pt x 433.62pt>
+File: figs/species-cond-B1242.pdf Graphic file (type pdf)
+
+<use figs/species-cond-B1242.pdf>
+Package pdftex.def Info: figs/species-cond-B1242.pdf used on input line 9821.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [180]
+<figs/species-frac-B1242.pdf, id=8427, 578.16pt x 433.62pt>
+File: figs/species-frac-B1242.pdf Graphic file (type pdf)
+
+<use figs/species-frac-B1242.pdf>
+Package pdftex.def Info: figs/species-frac-B1242.pdf used on input line 9887.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [181 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs
+/species-cond-B1242.pdf>]
+Overfull \hbox (2.1704pt too wide) in paragraph at lines 9897--9900
+\T1/ppl/m/n/12 putes the frac-tion of ob-served species rather than the num-ber
+ of new species. 
+ []
+
+[182 <C:/Users/wangxiang/Desktop/ThinkBayes-master/ThinkBayes-master/book/figs/
+species-frac-B1242.pdf>]
+Overfull \hbox (24.3125pt too wide) in paragraph at lines 9961--9963
+$\T1/cmtt/m/n/12 allendowney . blogspot . com / 2013 / 05 / belly-[]button-[]bi
+odiversity-[]end-[]game .$
+ []
+
+[183]
+(C:\Users\wangxiang\Desktop\ThinkBayes-master\ThinkBayes-master\book\book.ind
+[184]
+Overfull \hbox (2.8633pt too wide) in paragraph at lines 6--7
+[]\T1/ppl/m/n/12 Approximate Bayesian Com-pu-ta-tion,
+ []
+
+
+Overfull \hbox (4.79568pt too wide) in paragraph at lines 57--60
+[]\T1/ppl/m/n/12 conditional dis-tri-bu-tion, []100[], []104[], []142[],
+ []
+
+[185
+
+] [186]
+Overfull \hbox (7.51955pt too wide) in paragraph at lines 242--244
+[]\T1/ppl/m/n/12 multinomial dis-tri-bu-tion, []162[], []166[], []169[] 
+ []
+
+[187]
+Overfull \hbox (2.02336pt too wide) in paragraph at lines 381--382
+[]\T1/ppl/m/n/12 Veterans' Ben-e-fit Ad-min-is-tra-tion, []142[] 
+ []
+
+[188])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 10036.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 10036.
+
+(C:\Users\wangxiang\Desktop\ThinkBayes-master\ThinkBayes-master\book\book.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 10036.
+
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 10036
+.
+
+
+Package rerunfilecheck Warning: File `book.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `book.out':
+(rerunfilecheck)             Before: 9B4583D9D1D5DBD0D6514AB6F265B7D9;28212
+(rerunfilecheck)             After:  6508897971D02737BABEEF4ED36F9B54;9617.
+ ) 
+Here is how much of TeX's memory you used:
+ 9082 strings out of 495354
+ 132510 string characters out of 3183859
+ 221235 words of memory out of 3000000
+ 11567 multiletter control sequences out of 15000+200000
+ 50407 words of font info for 105 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 44i,8n,43p,440b,448s stack positions out of 5000i,500n,10000p,200000b,50000s
+{G:/ctex/MiKTeX/fonts/enc/dvips/cm-super/cm-super-t1.enc}{G:/ctex/MiKTeX/font
+s/enc/dvips/cm-super/cm-super-ts1.enc}{G:/ctex/MiKTeX/fonts/enc/dvips/fontname/
+8r.enc}<G:/ctex/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><G:/ctex/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmmi10.pfb><G:/ctex/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmr10.pfb><G:/ctex/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+><G:/ctex/MiKTeX/fonts/type1/public/mathpazo/fplmr.pfb><G:/ctex/MiKTeX/fonts/ty
+pe1/public/mathpazo/fplmri.pfb><G:/ctex/MiKTeX/fonts/type1/public/cm-super/sfit
+1200.pfb><G:/ctex/MiKTeX/fonts/type1/public/cm-super/sfrm1200.pfb><G:/ctex/MiKT
+eX/fonts/type1/public/cm-super/sfss1200.pfb><G:/ctex/MiKTeX/fonts/type1/public/
+cm-super/sftt1000.pfb><G:/ctex/MiKTeX/fonts/type1/public/cm-super/sftt1200.pfb>
+<G:/ctex/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><G:/ctex/MiKTeX/fonts/type1
+/urw/palatino/uplr8a.pfb><G:/ctex/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><G
+:/ctex/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on book.pdf (206 pages, 2974483 bytes).
+PDF statistics:
+ 9184 PDF objects out of 10688 (max. 8388607)
+ 475 named destinations out of 1000 (max. 500000)
+ 1433 words of extra memory for PDF output out of 10000 (max. 10000000)
+
