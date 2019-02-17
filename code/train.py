@@ -18,12 +18,12 @@ class Train(Dice):
 
 
 def main():
-    hypos = xrange(1, 1001)
+    hypos = range(1, 1001)
     suite = Train(hypos)
 
     suite.Update(60)
-    print suite.Mean()
-
+    print(suite.Mean())
+    print('Drawing processing: ')
     thinkplot.PrePlot(1)
     thinkplot.Pmf(suite)
     thinkplot.Save(root='train1',
